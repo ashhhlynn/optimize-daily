@@ -32,9 +32,6 @@ Daily Fantasy Football lineup builder and optimizer application created with Nod
 - View lineup total projection and remaining salary data
 
 ### Media 
-![Screenshot (190)](https://github.com/ashhhlynn/optimize-fantasy-football/assets/84604278/80af461d-e490-4ba9-831a-f17d04faa4b0)
-![Screenshot (192)](https://github.com/ashhhlynn/optimize-fantasy-football/assets/84604278/d2a85433-04ff-4d3e-b89b-2ba3f6afded0)
-
 <img src="https://github.com/ashhhlynn/optimize-fantasy-football/assets/84604278/d2a85433-04ff-4d3e-b89b-2ba3f6afded0" style="width:80%; height:80%">
 <img src="https://github.com/ashhhlynn/optimize-fantasy-football/assets/84604278/80af461d-e490-4ba9-831a-f17d04faa4b0" style="width:80%; height:80%">
 

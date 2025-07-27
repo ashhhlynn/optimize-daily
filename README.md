@@ -37,10 +37,10 @@ Daily Fantasy Football lineup builder and optimizer application created with Nod
 
 ### Setup
    ```sh
-   $ git clone https://github.com/ashhhlynn/optimize-fantasy-football.git
+   $ git clone https://github.com/ashhhlynn/optimize-daily.git
    ```
    ```sh
-   $ cd optimize-fantasy-football
+   $ cd optimize-daily
    ```
    ```sh
    $ cd client

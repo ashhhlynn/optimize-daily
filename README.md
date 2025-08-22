@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-Daily Fantasy Football lineup builder and optimizer application created with Node.js and React.js, featuring live DraftKings contest data and projections from Sleeper. Build DraftKings contest lineups manually from player queue or optimize with linear programming for the highest projected lineup given salary and position constraints. Updated weekly during the NFL season for the Sunday Classic and two Showdown contests.  
+Daily Fantasy Football lineup optimizer built with Node.js and React.js, featuring live contest data from DraftKings and projections from Sleeper. Build DraftKings contest lineups manually from player queue or generate highest projected lineups under position and salary constraints through linear programming. Updated weekly during NFL season for the Sunday Classic and two Showdown contests.  
     </td>
   </tr>
 </table> 
@@ -24,13 +24,13 @@ Daily Fantasy Football lineup builder and optimizer application created with Nod
 
 ### Features
 - Fetch from DraftKings API to access live TNF/MNF Showdown and Sunday Classic contest data
-- Fetch from Sleeper API to access player projections for week (PPR scoring)
-- Sort player queue by position, name, projection, FPPG, and salary
-- Calculate optimal lineup (highest proj. value) given salary and position constraints with lp-solver.js 
-- Manually add (or remove) players to lineup from player queue
-- Option to include manually selected players in optimization calculation
-- View lineup total projection and remaining salary data
-
+- Fetch from Sleeper API to access player projections for week in PPR scoring 
+- Sort player queue by position, name, FFPG, projection, and salary
+- Manually add (or remove) players to lineup from queue
+- Option to lock specific players from queue as required in optimization
+- Optimize with lp-solver.js for highest projected lineup under salary and position constraints 
+- Display lineup projection and remaining salary totals 
+  
 ### Media 
 <img src="https://github.com/ashhhlynn/optimize-fantasy-football/assets/84604278/d2a85433-04ff-4d3e-b89b-2ba3f6afded0" style="width:80%; height:80%">
 <img src="https://github.com/ashhhlynn/optimize-fantasy-football/assets/84604278/80af461d-e490-4ba9-831a-f17d04faa4b0" style="width:80%; height:80%">

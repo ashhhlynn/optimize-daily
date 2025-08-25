@@ -2,7 +2,7 @@
 <table>
   <tr>
     <td>
-Daily Fantasy Football lineup optimizer built with Node.js and React.js, featuring live contest data from DraftKings and projections from Sleeper. Build DraftKings contest lineups manually from player queue or generate highest projected lineups under position and salary constraints through linear programming. Updated weekly during NFL season for the Sunday Classic and two Showdown contests.  
+Daily Fantasy Football lineup builder and optimizer built with Node.js and React.js, featuring live contest data from DraftKings and projections from Sleeper. Build DraftKings contest lineups manually from player queue or generate highest projected lineups under position and salary constraints through linear programming. Updated weekly during NFL season for the Sunday Classic and two Showdown contests.  
     </td>
   </tr>
 </table> 
@@ -10,7 +10,7 @@ Daily Fantasy Football lineup optimizer built with Node.js and React.js, featuri
 #### :link: <a href="https://optimize-daily.netlify.app/">Website</a>
 #### :link: <a href="https://vimeo.com/930504746">Video</a>
 
-### Technologies Used
+### Technologies
 - JavaScript
 - React.js
 - Node.js

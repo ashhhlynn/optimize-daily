@@ -8,7 +8,6 @@ Daily fantasy football lineup builder and optimizer built with Node.js and React
 </table> 
 
 #### :link: <a href="https://optimize-daily.netlify.app/">Website</a>
-#### :link: <a href="https://vimeo.com/930504746">Video</a>
 
 ### Technologies
 - JavaScript
